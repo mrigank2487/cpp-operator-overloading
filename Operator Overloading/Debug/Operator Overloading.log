@@ -1,0 +1,19 @@
+﻿Build started 17-04-2017 19:08:38.
+     1>Project "C:\Users\Sandeep\documents\visual studio 2010\Projects\Operator Overloading\Operator Overloading\Operator Overloading.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Operator Overloading.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sandeep\documents\visual studio 2010\Projects\Operator Overloading\Debug\Operator Overloading.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Operator Overloading.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Sandeep\documents\visual studio 2010\Projects\Operator Overloading\Debug\Operator Overloading.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sandeep\documents\visual studio 2010\Projects\Operator Overloading\Debug\Operator Overloading.lib" /MACHINE:X86 "Debug\Class to Class Type Conversion.obj"
+         Operator Overloading.vcxproj -> C:\Users\Sandeep\documents\visual studio 2010\Projects\Operator Overloading\Debug\Operator Overloading.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Sandeep\documents\visual studio 2010\Projects\Operator Overloading\Debug\Operator Overloading.exe;#1" /manifest "Debug\Operator Overloading.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Operator Overloading.unsuccessfulbuild".
+         Touching "Debug\Operator Overloading.lastbuildstate".
+     1>Done Building Project "C:\Users\Sandeep\documents\visual studio 2010\Projects\Operator Overloading\Operator Overloading\Operator Overloading.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01
